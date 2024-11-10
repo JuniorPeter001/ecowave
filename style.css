@@ -299,7 +299,7 @@
 .square-hold {
     position: absolute;
     z-index: 5;
-    margin-left: -28%;
+    margin-left: -58%;
     margin-top: 130px;
 }
 
@@ -351,7 +351,7 @@
     border: 7px solid white;
     border-radius: 8px;
     margin-top: 450px;
-    margin-left: 30%;
+    margin-left: 70%;
 }
 
 .sec4-col2 {
@@ -426,7 +426,7 @@
     padding: 10px 10px;
     font-size: 36px;
     position: absolute;
-    margin-top: -6%;
+    margin-top: -18%;
 }
 
 .section-6 {
